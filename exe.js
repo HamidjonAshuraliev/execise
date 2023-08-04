@@ -1,9 +1,5 @@
-// arrow function
-// let test = () => {
-//     console.log('salom');
-// }
-// test()
-// T=salom
+
+
 
 // hoisting
 // console.log(test);
@@ -68,6 +64,31 @@
 // console.log(arr.sort( (a, b) => b - a ));
 
 //  filter
-let arr = [1, 5, 11, 6, 11, 64,11,];
-let filtered = arr.filter((value) => value >= 11);
-console.log(filtered);
+// let arr = [1, 5, 11, 6, 11, 64,11,];
+// let filtered = arr.filter((value) => value >= 11);
+// console.log(filtered);
+
+
+// table
+{/* <table border="2">
+<caption>General table</caption>
+<tr>
+    <th>bir</th>
+    <th colspan="2">ikki</th>
+    <th>to'rt</th>
+</tr>
+
+<tr>
+    <td rowspan="2">1</td>
+    <td>2</td>
+    <td>2</td>
+    <td>4</td>
+</tr>
+<tr>
+   
+    <td>6</td>
+    <td>7</td>
+    <td>8</td>
+</tr>
+</table> */}
+
